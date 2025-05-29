@@ -1,4 +1,7 @@
 # hospitalService
 UMC toy project
 
-#토이프로젝트 소개
+# 토이프로젝트 소개
+병원 진료 예약 시스템을 위한 데이터베이스 구축
+
+# ERD 구조
